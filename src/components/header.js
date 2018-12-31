@@ -20,7 +20,7 @@ const Header = ({ siteTitle }) => (
         <Link
           to="/"
           style={{
-            color: `grey`,
+            color: `black`,
             textDecoration: `none`,
           }}
         >
