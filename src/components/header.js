@@ -1,4 +1,3 @@
-import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import React from 'react'
 
@@ -14,8 +13,8 @@ const Header = ({ siteTitle }) => (
       <h1>
         I'm a software developer.
       </h1>
-      <p>I write PHP and JavaScript at <a target="_blank" href="https://www.framestore.com">Framestore</a>.</p>
-      <p>I'm on <a target="_blank" href="https://github.com/magnusvaughan">Github</a> and <a target="_blank" href="https://twitter.com/magnusvaughan">Twitter.</a></p>
+      <p>I write PHP and JavaScript at <a target="_blank" rel="noopener noreferrer" href="https://www.framestore.com">Framestore</a>.</p>
+      <p>I'm on <a target="_blank" rel="noopener noreferrer" href="https://github.com/magnusvaughan">Github</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/magnusvaughan">Twitter.</a></p>
     </div>
   </div>
 )

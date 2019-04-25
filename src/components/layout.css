@@ -627,3 +627,15 @@ pre tt:after {
 
 
 /* Custom CSS */
+body {
+  background: url(../images/topography.png);
+}  
+
+h1 {
+  font-family: 'Roboto'; 
+  font-weight: 300;   
+}
+
+p {
+  font-family: 'Open Sans';
+}
